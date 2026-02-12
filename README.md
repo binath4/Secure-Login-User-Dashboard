@@ -51,7 +51,7 @@ It is designed as a progression project.
 ## Project Structure
 
 
-Secure Login & User Dashboard/
+secure-login-user-dashboard/
 │
 ├── db.php
 ├── register.php
@@ -61,8 +61,11 @@ Secure Login & User Dashboard/
 ├── index.php
 ├── styles.css
 ├── setup.sql
-└── README.md
-
+├── README.md
+├── LICENSE
+└── screenshots/
+├── login.png
+└── dashboard.png
 
 -----------------
 
