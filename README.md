@@ -26,11 +26,13 @@ It is designed as a progression project.
 
 -----------------
 
-### Login
-![Login](login.png)
+## Screenshots
+
+### login
+![login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 
 ## Demonstrated things & Security Features
