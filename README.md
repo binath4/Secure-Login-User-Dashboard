@@ -50,7 +50,7 @@ It is designed as a progression project.
 
 ## Project Structure
 
-
+```
 secure-login-user-dashboard/
 │
 ├── db.php
@@ -66,7 +66,7 @@ secure-login-user-dashboard/
 └── screenshots/
 ├── login.png
 └── dashboard.png
-
+```
 -----------------
 
 ## Instructions
